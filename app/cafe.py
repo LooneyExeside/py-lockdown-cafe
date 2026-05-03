@@ -20,4 +20,3 @@ class Cafe:
             raise NotWearingMaskError("Visitor is not wearing a mask")
 
         return f"Welcome to {self.name}"
-#123
